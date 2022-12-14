@@ -1,6 +1,6 @@
-# Workout Tracker fyrir Fimma Nation Chicken Couches
+# Workout Tracker fyrir Fimm Mennina
 
 ## FEATURES
-- 1. Gym Calender
-- 2. Gym Streaks
-- 3. Split Tracker
+- 1 Gym Calender
+- 2 Gym Streaks
+- 3 Split Tracker
