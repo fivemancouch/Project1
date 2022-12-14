@@ -1,5 +1,5 @@
 # Workout Tracker fyrir Fimm Mennina
-https://fivemancouch.github.io/Project1/
+https://fivemancouch.github.io/Project1/index.html
 ## FEATURES
 - 1 Gym Calender
 - 2 Gym Streaks
